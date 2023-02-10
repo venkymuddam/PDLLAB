@@ -12,7 +12,7 @@ st.set_page_config(page_title=string, page_icon="✅", layout="centered", initia
 st.title (string, anchor=None)
 st.write("""
 
-            - By *Basavaraj* :sunglasses: 
+            - By *Venkatesh* :sunglasses: 
 
 """)
 
